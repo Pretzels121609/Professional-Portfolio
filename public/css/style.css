@@ -1,3 +1,25 @@
 .profilepic {
     border-radius: 50%;
 }
+
+body {
+    height: 100vh;
+    background: url(../img/church_@2X.png) no-repeat center top;
+    background-size: cover;
+}
+ .link-buttons {
+     display: flex;
+     justify-content: space-evenly;
+     
+ }
+ .button-link {
+     background-color: #18bc9c;
+     border: none;
+     font-weight: 800;
+     width: 77px;
+ }
+ .button-link:hover{
+    background-color: #18bc9c;
+    color: #2c3e50;
+ }
+   
