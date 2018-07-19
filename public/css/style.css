@@ -42,3 +42,11 @@ body {
  .caption-header-text {
      margin-bottom: 0px;
  }
+
+ /* code from creative template for Contact page */
+ .fa-3x {
+    font-size: 3em;
+ }
+ .mb-3 {
+  margin-bottom: 1rem !important;
+}
