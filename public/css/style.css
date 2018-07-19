@@ -4,8 +4,8 @@
 
 body {
     height: 100%;
-    background: url(../img/church_@2X.png) no-repeat center top;
-    background-size: cover;
+    background: url(../img/symphony.png) repeat center top;
+    /* background-size: cover; */
 }
  .link-buttons {
      display: flex;
